@@ -1,0 +1,7 @@
+#py=3.9
+requests
+pandas
+numpy
+beautifulsoup4
+streamlit
+transformers
